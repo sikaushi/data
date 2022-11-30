@@ -1,1 +1,1 @@
-[]
+{"From":["SeriesID","SeriesDescription","series","GeoAreaName","TimePeriod","Source","Age","Nature","Sex","Reporting Type","Type","series","SeriesCode"],"To":["SeriesDescription","GeoAreaName","GeoAreaCode","TimePeriod","Source","Age","Nature","Sex","Reporting Type","Type","SeriesCode","ISOalpha3","series"]}

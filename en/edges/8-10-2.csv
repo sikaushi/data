@@ -1,1 +1,14 @@
 From,To
+SeriesID,SeriesDescription
+SeriesDescription,GeoAreaName
+series,GeoAreaCode
+GeoAreaName,TimePeriod
+TimePeriod,Source
+Source,Age
+Age,Nature
+Nature,Sex
+Sex,Reporting Type
+Reporting Type,Type
+Type,SeriesCode
+series,ISOalpha3
+SeriesCode,series
