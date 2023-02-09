@@ -1,1 +1,1 @@
-{"From":["SeriesID","SeriesDescription","GeoAreaCode","GeoAreaName","TimePeriod","Source","Nature","Reporting Type","SeriesCode","Type"],"To":["SeriesDescription","GeoAreaCode","GeoAreaName","TimePeriod","Source","Nature","Reporting Type","Type","ISOalpha3","SeriesCode"]}
+[]
