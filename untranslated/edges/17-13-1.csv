@@ -1,1 +1,10 @@
 From,To
+Type,SeriesID
+SeriesID,SeriesCode
+SeriesDescription,GeoAreaCode
+GeoAreaCode,GeoAreaName
+GeoAreaName,TimePeriod
+TimePeriod,Source
+Source,Nature
+Nature,Reporting Type
+Reporting Type,Type
